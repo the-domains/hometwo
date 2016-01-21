@@ -1,0 +1,28 @@
+name: Hometwo
+favicon: null
+layout_spectrum: 0.627050613751635
+typography_spectrum: 0.17904840456321836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8939292877912521
+  lightness: 0.6665007791016251
+  saturation: 0.9963051429949701
+  rhythmicContrast: 0.43163265800103545
+purpose: []
