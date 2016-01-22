@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hometwo]]></title>
+        <description><![CDATA[Hometwo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 00:00:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hometwo es la cuna del Montessori en Costa Rica, pues fue la semilla definitiva que inició  este gran movimiento el primero de Agosto de 1988. 
+
+Aunque antes Carmen Lyra abrió  el primer Montessori en Costa Rica a principios del siglo XX, y así como se dieron otras iniciativas con el tiempo, no fue sino hasta La Casa de los Niños Montessori en Escazú , antiguo nombre de Hometwo, que el Montessori despegó  con fuerza en el país. 
+
+Su fundadora, Alexandra Franco, se formó  en México con la Pan American Montessori Society. Con más de 25 añ os de guiar niñas y niños con amor, dedicación y el método Montessori, Hometwo es la institución decana de educación preescolar con esta gran visión.</p>]]></description>
+            <link>undefined0b3f8e0c-ddca-46c4-9d9d-3fedae96b381/index.html</link>
+            <guid isPermaLink="false">0b3f8e0c-ddca-46c4-9d9d-3fedae96b381</guid>
+            <pubDate>Thu, 21 Jan 2016 23:59:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
